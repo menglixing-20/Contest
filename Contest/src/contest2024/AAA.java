@@ -7,7 +7,7 @@ public class AAA {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		BigDecimal big = new BigDecimal("1000000000000000");
+		BigDecimal big = new BigDecimal("1000000000000222");
 		
 		BigDecimal verybig = big.pow(2);
 		System.out.println(verybig);
