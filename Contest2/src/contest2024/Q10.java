@@ -11,6 +11,7 @@ public class Q10 {
 		int arr[]= {11,9,6,13,8,14,5,12,7,10,15,5,13,6,10};
 		int maximum=4; 
 		int maximum2=4; 
+		int maximum3=4445566; 
 		int[] arrCooked=new int[maximum];
 		
 		Arrays.sort(arr);
