@@ -6,7 +6,7 @@ public class Final1 {
 	{ 
 		// TODO Auto-generated method stub
 		int leftA = 26000;
-		int leftB = 5000;
+		int leftB = 599;
 		int leftC = 1900;
 		
 		int needA = 60;
