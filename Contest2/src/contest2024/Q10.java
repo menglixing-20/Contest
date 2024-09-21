@@ -9,7 +9,7 @@ public class Q10 {
 		// TODO Auto-generated method stub
 		int N=15;
 		int arr[]= {11,9,6,13,8,14,5,12,7,10,15,5,13,6,10};
-		int maximum=4;
+		int maximum=4; 
 		
 		int[] arrCooked=new int[maximum];
 		
