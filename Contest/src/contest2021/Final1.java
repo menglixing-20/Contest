@@ -5,7 +5,7 @@ public class Final1 {
 	public static void main(String[] args) 
 	{ 
 		// TODO Auto-generated method stub
-		int leftA = 2600;
+		int leftA = 26000;
 		int leftB = 5000;
 		int leftC = 1900;
 		
