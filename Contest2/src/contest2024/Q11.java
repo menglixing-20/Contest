@@ -22,7 +22,7 @@ public class Q11 {
 		
 		for(int i=0 ; i<actions.length ; i++)
 		{
-			System.out.println(actions[i].getX());
+			System.out.println(actions[i].getX()+"ss");
 		}
 		
 		Stack<Point> actionStack = new Stack<Point>();

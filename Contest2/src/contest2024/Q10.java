@@ -40,7 +40,7 @@ public class Q10 {
 			cookedTime = cookedTime + 1;
 		}
 		
-		System.out.println("cookedTime=" + cookedTime);
+		System.out.println("cookedTimes=" + cookedTime);
 		
 	}
 
