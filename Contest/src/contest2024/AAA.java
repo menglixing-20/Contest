@@ -3,7 +3,7 @@ package contest2024;
 import java.math.BigDecimal;
 
 public class AAA {
-
+ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
